@@ -1,4 +1,4 @@
-### Hey there 👋
+## Hey there 👋
 
 ------------
 
@@ -7,6 +7,8 @@
 I'm Ismael, a Data Scientist based in New York, NY, and passionate about solving problems and tell stories through data. With a background in Marketing and Business Intelligence, I focused on data-driven decisions and solutions.
 Invite me for a hot coffee (black, please) and a conversation about that new machine learning algorithm that you just learned about, and we will be best friends.
 <br><br>You can find me running by the river, reading about astrophysics at public parks in NYC in my free time, or translating Data Science courses from English to Portuguese.
+
+![Ismael's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismael-araujo&hide=issues&show_icons=true)
 
 #### Projects
 **[Hotel Reviews Analysis Using NLP and Machine Learning](https://github.com/ismael-araujo/Hotel-Reviews-Analysis-Using-NLP "Hotel Reviews Analysis Using NLP and Machine Learning")**
@@ -18,23 +20,3 @@ Invite me for a hot coffee (black, please) and a conversation about that new mac
 #### Micro Projects
 **[Finding Exoplanets Using Machine Learning](https://github.com/Ismaeltrevi/finding_exoplanets_using_ML "Finding Exoplanets Using Machine Learning")**
 
-
-
-
-
-
-
-<!--
-**Ismaeltrevi/ismaeltrevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
