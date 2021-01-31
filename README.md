@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="50%" />
+I'm Ismael, a data scientist with passion for solving problems and tell stories through data.
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="50%" />
+
+
 
 <!--
 **Ismaeltrevi/ismaeltrevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
