@@ -1,8 +1,16 @@
-### Hi there 👋
+### Olá 👋
 
-I'm Ismael, a data scientist with passion for solving problems and tell stories through data.
+------------
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="50%" />
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="50%" />
+I'm Ismael, a Data Scientist based in New York, NY and passionate about solving problems and tell stories through data. With a background in Marketing and Business Intelligence, I always made sure to transform any department where I worked into a data-driven one.
+
+Invite me for a hot coffee (black, please) and a conversation about that new machine learning algorithm that you just learned about and we will be best friends.
+
+In my free time, you can find me running by the river or reading about astrophysics at public parks.
+
+
 
 
 
