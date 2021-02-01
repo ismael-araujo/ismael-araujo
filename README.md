@@ -3,7 +3,7 @@
 ------------
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" height="45%" /><br>
-I'm a Data Scientist based in New York City with a background in Marketing and Business Intelligenge. Passionate about solving problems and telling stories using data.
+I'm a Data Scientist based in New York City with a background in Marketing and Business Intelligence. Passionate about solving problems and telling stories using data.
 <br><br>
 Invite me for a hot coffee (black, please) to chat about that new machine learning algorithm that you just learned about, and we will be best friends.
 <br><br>You can find me running by the river, reading about astrophysics at public parks in NYC, or translating Data Science courses from English to Portuguese in my free time.
