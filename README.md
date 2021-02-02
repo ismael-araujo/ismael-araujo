@@ -20,7 +20,7 @@ Invite me for a hot coffee (black, please) to chat about that new machine learni
 ### Micro Projects
 **[Finding Exoplanets Using Machine Learning](https://github.com/Ismaeltrevi/finding_exoplanets_using_ML "Finding Exoplanets Using Machine Learning")**
 
-
+**[Analyzing Wildfires in Brazil](https://github.com/ismael-araujo/Analyzing-Wildfires-in-Brazil "Analyzing Wildfires in Brazil")**
 
 ### Medium Articles
 
@@ -29,3 +29,4 @@ Invite me for a hot coffee (black, please) to chat about that new machine learni
 **[How Bias and Variance Affect a Machine Learning Model](https://medium.com/swlh/how-bias-and-variance-affect-a-machine-learning-model-6d258d9221db "How Bias and Variance Affect a Machine Learning Model")**
 
 **[Analyzing The Amazon Rainforest Wildfires With Data Visualizations](https://ismaelaraujo.medium.com/analyzing-the-amazon-rainforest-wildfires-with-data-visualizations-4561626056d1 "Analyzing The Amazon Rainforest Wildfires With Data Visualizations")**
+
