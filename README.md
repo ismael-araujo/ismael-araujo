@@ -20,6 +20,8 @@ Invite me for a hot coffee (black, please) to chat about that new machine learni
 ### Micro Projects
 **[Finding Exoplanets Using Machine Learning](https://github.com/Ismaeltrevi/finding_exoplanets_using_ML "Finding Exoplanets Using Machine Learning")**
 
+
+
 ### Medium Articles
 
 **[Using Machine Learning to Find Exoplanets With NASA’s Data](https://towardsdatascience.com/using-machine-learning-to-find-exoplanets-with-nasas-dataset-bb818515e3b3 "Using Machine Learning to Find Exoplanets With NASA’s Data")**
