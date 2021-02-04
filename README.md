@@ -4,7 +4,10 @@
 I'm a Data Scientist based in New York City with a background in Marketing and Business Intelligence. Passionate about solving problems and telling stories using data.
 <br><br>
 Invite me for a hot coffee (black, please) to chat about that new machine learning algorithm that you just learned about, and we will be best friends.
-<br><br>You can find me running by the river, reading about astrophysics at public parks in NYC, or translating Data Science courses from English to Portuguese in my free time.
+<br><br>You can find me running by the river, reading about astrophysics at public parks in NYC, or translating Data Science courses from English to Portuguese in my free time.<br><br>
+
+<a href="https://www.linkedin.com/in/ismael-araujo/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="50" title="Linkedin" /></a> <a href="https://www.linkedin.com/in/ismael-araujo/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="50" title="Twitter"/> </a>
+
 
 <br><br>
 
@@ -29,4 +32,5 @@ Invite me for a hot coffee (black, please) to chat about that new machine learni
 **[How Bias and Variance Affect a Machine Learning Model](https://medium.com/swlh/how-bias-and-variance-affect-a-machine-learning-model-6d258d9221db "How Bias and Variance Affect a Machine Learning Model")**
 
 **[Analyzing The Amazon Rainforest Wildfires With Data Visualizations](https://ismaelaraujo.medium.com/analyzing-the-amazon-rainforest-wildfires-with-data-visualizations-4561626056d1 "Analyzing The Amazon Rainforest Wildfires With Data Visualizations")**
+
 
