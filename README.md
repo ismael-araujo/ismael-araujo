@@ -6,7 +6,12 @@ I'm a Data Scientist based in New York City with a background in Marketing and B
 Invite me for a hot coffee (black, please) to chat about that new machine learning algorithm that you just learned about, and we will be best friends.
 <br><br>You can find me running by the river, reading about astrophysics at public parks in NYC, or translating Data Science courses from English to Portuguese in my free time.<br><br>
 
-<a href="https://www.linkedin.com/in/ismael-araujo/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="50" title="Linkedin" /></a>  <a href="https://www.linkedin.com/in/ismael-araujo/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="50" title="Twitter"/> </a>  <a href="https://ismaelaraujo.medium.com"><img src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" width="50" title="Medium"/> </a>  <a href="mailto:alves.trevi@gmail.com"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/256/Apps-Gmail-icon.png" width="54.5" title="Gmail"/> </a>
+<a href="https://www.linkedin.com/in/ismael-araujo/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="50" title="Linkedin" /></a>  <a href="https://www.linkedin.com/in/ismael-araujo/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="50" title="Twitter"/> </a>  <a href="https://ismaelaraujo.medium.com"><img src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" width="50" title="Medium"/> </a>  <a href="mailto:alves.trevi@gmail.com"><img src="https://github.com/ismael-araujo/ismael-araujo/blob/main/gmail-icon.png?raw=true" width="52" title="Gmail"/> </a><a href="https://wa.me/19293285881"><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="52.5" title="Whatsapp"/> </a>  
+
+
+
+
+
 
 
 <br><br>
