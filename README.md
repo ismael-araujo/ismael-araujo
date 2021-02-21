@@ -15,7 +15,7 @@ You can find me running by the river, reading about astrophysics at public parks
 ### Projects
 **[Hotel Reviews Analysis Using NLP and Machine Learning](https://github.com/ismael-araujo/Hotel-Reviews-Analysis-Using-NLP "Hotel Reviews Analysis Using NLP and Machine Learning")**
 
-**[Predicting Fetal Risk Using Cardiotocographic Data](https://github.com/ismael-araujo/Predicting-House-Price "Predicting Fetal Risk Using Cardiotocographic Data")**
+**[Predicting Fetal Risk Using Cardiotocographic Data](https://github.com/ismael-araujo/Predicting-Fetal-Risk-Using-Cardiotocographic-Data "Predicting Fetal Risk Using Cardiotocographic Data")**
 
 **[House Price Prediction Model](https://github.com/ismael-araujo/Predicting-House-Price "House Price Prediction Model")**
 
