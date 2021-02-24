@@ -5,7 +5,7 @@ I'm a Data Scientist based in New York City with a background in Marketing and B
 
 Invite me for a hot coffee (black, please) to chat about that new machine learning algorithm that you just learned about, and we will be best friends.
 
-You can find me running by the river, reading about astrophysics at public parks in NYC, or translating Data Science courses from English to Portuguese in my free time.<br>
+You can find me running by the river, reading about astrophysics at public parks in NYC, or translating Data Science courses from English to Portuguese at at coffee places.<br>
 <br>
 
 ![Ismael's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismael-araujo&hide=issues&show_icons=true) <br>
