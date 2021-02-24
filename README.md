@@ -32,4 +32,8 @@ You can find me running by the river, reading about astrophysics at public parks
 
 **[Analyzing The Amazon Rainforest Wildfires With Data Visualizations](https://ismaelaraujo.medium.com/analyzing-the-amazon-rainforest-wildfires-with-data-visualizations-4561626056d1 "Analyzing The Amazon Rainforest Wildfires With Data Visualizations")**
 
+**What Am I Working On:**
+Currently, I'm working on my capstone project for my Master's in Data Science at Pontifical Catholic University of Rio Grande do Sul.
+
+
 
