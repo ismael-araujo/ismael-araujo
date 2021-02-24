@@ -21,12 +21,12 @@ You can find me running by the river, reading about astrophysics at public parks
 
 **[House Price Prediction Model](https://github.com/ismael-araujo/Predicting-House-Price "House Price Prediction Model")**
 
-##Micro Projects
+## Micro Projects
 **[Finding Exoplanets Using Machine Learning](https://github.com/Ismaeltrevi/finding_exoplanets_using_ML "Finding Exoplanets Using Machine Learning")**
 
 **[Analyzing Wildfires in Brazil](https://github.com/ismael-araujo/Analyzing-Wildfires-in-Brazil "Analyzing Wildfires in Brazil")**
 
-##Medium Articles
+## Medium Articles
 
 **[Using Machine Learning to Find Exoplanets With NASA’s Data](https://towardsdatascience.com/using-machine-learning-to-find-exoplanets-with-nasas-dataset-bb818515e3b3 "Using Machine Learning to Find Exoplanets With NASA’s Data")**
 
@@ -34,6 +34,6 @@ You can find me running by the river, reading about astrophysics at public parks
 
 **[Analyzing The Amazon Rainforest Wildfires With Data Visualizations](https://ismaelaraujo.medium.com/analyzing-the-amazon-rainforest-wildfires-with-data-visualizations-4561626056d1 "Analyzing The Amazon Rainforest Wildfires With Data Visualizations")**
 
-##What Am I Working On:
+## What Am I Working On:
 
 Currently, I'm working on my capstone project for my Master's in Data Science at Pontifical Catholic University of Rio Grande do Sul. It's schedule to be done by the end of April 2021 and I can't wait to share it with you.
