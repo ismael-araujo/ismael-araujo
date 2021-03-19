@@ -28,6 +28,8 @@ You can find me running by the river, reading about astrophysics at public parks
 
 ## Medium Articles
 
+**[How to Run 30 Machine Learning Models with a Few Lines of Code](https://towardsdatascience.com/how-to-run-30-machine-learning-models-with-2-lines-of-code-d0f94a537e52)**
+
 **[How to Import All Python Libraries With One Line of Code](https://towardsdatascience.com/how-to-import-all-python-libraries-with-one-line-of-code)**
 
 **[Using Machine Learning to Find Exoplanets With NASA’s Data](https://towardsdatascience.com/using-machine-learning-to-find-exoplanets-with-nasas-dataset-bb818515e3b3 "Using Machine Learning to Find Exoplanets With NASA’s Data")**
