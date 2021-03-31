@@ -17,7 +17,11 @@ You can find me running by the river, reading about astrophysics at public parks
 
 **[Hotel Reviews Analysis Using NLP and Machine Learning](https://github.com/ismael-araujo/Hotel-Reviews-Analysis-Using-NLP "Hotel Reviews Analysis Using NLP and Machine Learning")**
 
+Hotels can receive hundreds of reviews every day and it’s easy to lose track of them. Thinking of that, I created a project using Natural Language Processing that was able to analyze which features have the highest impact on guests when they write a review, get insights about the hotel in a few seconds, and classify reviews with 82% accuracy.
+
 **[Predicting Fetal Risk Using Cardiotocographic Data](https://github.com/ismael-araujo/Predicting-Fetal-Risk-Using-Cardiotocographic-Data- "Predicting Fetal Risk Using Cardiotocographic Data")**
+
+One of the most important goals of the humanity is reducing child mortality. This was the inspiration for this project that uses cardiotocographic data to predict child health and avoid unnecessary c-sections. The final model was able to predict child health status with an F1-Score of 0.978.
 
 **[House Price Prediction Model](https://github.com/ismael-araujo/Predicting-House-Price "House Price Prediction Model")**
 
