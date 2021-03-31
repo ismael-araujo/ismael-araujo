@@ -30,9 +30,13 @@ You can find me running by the river, reading about astrophysics at public parks
 
 **[How to Run 30 Machine Learning Models with a Few Lines of Code](https://towardsdatascience.com/how-to-run-30-machine-learning-models-with-2-lines-of-code-d0f94a537e52)**
 
+**[How to Create Data Visualizations On Python With One Click](https://towardsdatascience.com/how-to-create-data-visualizations-on-python-with-one-click-f6bafbd8de54)**
+
 **[How to Import All Python Libraries With One Line of Code](https://towardsdatascience.com/how-to-import-all-python-libraries-with-one-line-of-code)**
 
 **[Using Machine Learning to Find Exoplanets With NASA’s Data](https://towardsdatascience.com/using-machine-learning-to-find-exoplanets-with-nasas-dataset-bb818515e3b3 "Using Machine Learning to Find Exoplanets With NASA’s Data")**
+
+**[Lambda Functions 101: From Zero to Hero](https://towardsdatascience.com/lambda-functions-101-from-zero-to-hero-81b066cb82b7 "How Bias and Variance Affect a Machine Learning Model")**
 
 **[How Bias and Variance Affect a Machine Learning Model](https://medium.com/swlh/how-bias-and-variance-affect-a-machine-learning-model-6d258d9221db "How Bias and Variance Affect a Machine Learning Model")**
 
