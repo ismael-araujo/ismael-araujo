@@ -44,11 +44,9 @@ One of the most important goals of the humanity is reducing child mortality. Thi
 
 **[Using Machine Learning to Find Exoplanets With NASA’s Data](https://towardsdatascience.com/using-machine-learning-to-find-exoplanets-with-nasas-dataset-bb818515e3b3 "Using Machine Learning to Find Exoplanets With NASA’s Data")**
 
-**[Lambda Functions 101: From Zero to Hero](https://towardsdatascience.com/lambda-functions-101-from-zero-to-hero-81b066cb82b7 "How Bias and Variance Affect a Machine Learning Model")**
-
-**[How Bias and Variance Affect a Machine Learning Model](https://medium.com/swlh/how-bias-and-variance-affect-a-machine-learning-model-6d258d9221db "How Bias and Variance Affect a Machine Learning Model")**
-
 **[Analyzing The Amazon Rainforest Wildfires With Data Visualizations](https://ismaelaraujo.medium.com/analyzing-the-amazon-rainforest-wildfires-with-data-visualizations-4561626056d1 "Analyzing The Amazon Rainforest Wildfires With Data Visualizations")**
+
+**[More...](hhttps://ismaelaraujo.medium.com)**
 
 ## Blogs – Spanish
 **[Cómo ejecutar 30 modelos de aprendizaje automático con unas pocas líneas de código](https://planetachatbot.com/como-ejecutar-30-modelos-aprendizaje-automatico-pocas-lineas-codigo-324b5c554068)**
