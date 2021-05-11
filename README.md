@@ -30,13 +30,17 @@ One of the most important goals of the humanity is reducing child mortality. Thi
 
 **[Analyzing Wildfires in Brazil](https://github.com/ismael-araujo/Analyzing-Wildfires-in-Brazil "Analyzing Wildfires in Brazil")**
 
-## Medium Articles
+## Blogs – English
 
 **[How to Run 30 Machine Learning Models with a Few Lines of Code](https://towardsdatascience.com/how-to-run-30-machine-learning-models-with-2-lines-of-code-d0f94a537e52)**
+
+**[How to Run 40 Regression Models with a Few Lines of Code](https://towardsdatascience.com/how-to-run-40-regression-models-with-a-few-lines-of-code-5a24186de7d)**
 
 **[How to Create Data Visualizations On Python With One Click](https://towardsdatascience.com/how-to-create-data-visualizations-on-python-with-one-click-f6bafbd8de54)**
 
 **[How to Import All Python Libraries With One Line of Code](https://towardsdatascience.com/how-to-import-all-python-libraries-with-one-line-of-code)**
+
+**[Learning SQL? Learn How to Practice SQL With a Complex Database](https://towardsdatascience.com/learning-sql-learn-how-to-practice-sql-with-a-complex-database-4b2ce933b1ef)**
 
 **[Using Machine Learning to Find Exoplanets With NASA’s Data](https://towardsdatascience.com/using-machine-learning-to-find-exoplanets-with-nasas-dataset-bb818515e3b3 "Using Machine Learning to Find Exoplanets With NASA’s Data")**
 
@@ -45,6 +49,9 @@ One of the most important goals of the humanity is reducing child mortality. Thi
 **[How Bias and Variance Affect a Machine Learning Model](https://medium.com/swlh/how-bias-and-variance-affect-a-machine-learning-model-6d258d9221db "How Bias and Variance Affect a Machine Learning Model")**
 
 **[Analyzing The Amazon Rainforest Wildfires With Data Visualizations](https://ismaelaraujo.medium.com/analyzing-the-amazon-rainforest-wildfires-with-data-visualizations-4561626056d1 "Analyzing The Amazon Rainforest Wildfires With Data Visualizations")**
+
+## Blogs – Spanish
+**[Cómo ejecutar 30 modelos de aprendizaje automático con unas pocas líneas de código](https://planetachatbot.com/como-ejecutar-30-modelos-aprendizaje-automatico-pocas-lineas-codigo-324b5c554068)**
 
 ## What Am I Working On:
 
