@@ -46,7 +46,7 @@ One of the most important goals of the humanity is reducing child mortality. Thi
 
 **[Analyzing The Amazon Rainforest Wildfires With Data Visualizations](https://ismaelaraujo.medium.com/analyzing-the-amazon-rainforest-wildfires-with-data-visualizations-4561626056d1 "Analyzing The Amazon Rainforest Wildfires With Data Visualizations")**
 
-**[Find More...](https://ismaelaraujo.medium.com)**
+**[More Blogs...](https://ismaelaraujo.medium.com)**
 
 ## Blogs – Spanish
 **[Cómo ejecutar 30 modelos de aprendizaje automático con unas pocas líneas de código](https://planetachatbot.com/como-ejecutar-30-modelos-aprendizaje-automatico-pocas-lineas-codigo-324b5c554068)**
