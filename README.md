@@ -42,12 +42,6 @@ My blogs have been receiving over 100K views every month and I've been among the
 
 **[How to Create Data Visualizations On Python With One Click](https://towardsdatascience.com/how-to-create-data-visualizations-on-python-with-one-click-f6bafbd8de54)**
 
-**[How to Import All Python Libraries With One Line of Code](https://towardsdatascience.com/how-to-import-all-python-libraries-with-one-line-of-code)**
-
-**[Learning SQL? Learn How to Practice SQL With a Complex Database](https://towardsdatascience.com/learning-sql-learn-how-to-practice-sql-with-a-complex-database-4b2ce933b1ef)**
-
-**[Using Machine Learning to Find Exoplanets With NASA’s Data](https://towardsdatascience.com/using-machine-learning-to-find-exoplanets-with-nasas-dataset-bb818515e3b3 "Using Machine Learning to Find Exoplanets With NASA’s Data")**
-
 **[Analyzing The Amazon Rainforest Wildfires With Data Visualizations](https://ismaelaraujo.medium.com/analyzing-the-amazon-rainforest-wildfires-with-data-visualizations-4561626056d1 "Analyzing The Amazon Rainforest Wildfires With Data Visualizations")**
 
 **[More...](https://ismaelaraujo.medium.com)**
