@@ -32,6 +32,10 @@ One of the most important goals of the humanity is reducing child mortality. Thi
 
 ## Blogs – English
 
+My blogs have been receiving over 100K views every month and I've been among the top writers at Medium since Medium started turning this public. Here are some of my most popular and favorite blogs yet.
+
+**[5 Python Libraries That You Don’t Know About, But Should](https://towardsdatascience.com/5-python-libraries-that-you-dont-know-but-you-should-fd6f810773a7)**
+
 **[How to Run 30 Machine Learning Models with a Few Lines of Code](https://towardsdatascience.com/how-to-run-30-machine-learning-models-with-2-lines-of-code-d0f94a537e52)**
 
 **[How to Run 40 Regression Models with a Few Lines of Code](https://towardsdatascience.com/how-to-run-40-regression-models-with-a-few-lines-of-code-5a24186de7d)**
