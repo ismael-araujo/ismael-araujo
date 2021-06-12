@@ -17,7 +17,7 @@ You can find me running by the river, reading about astrophysics at public parks
 
 **[Hotel Reviews Analysis Using NLP and Machine Learning](https://github.com/ismael-araujo/Hotel-Reviews-Analysis-Using-NLP "Hotel Reviews Analysis Using NLP and Machine Learning")**
 
-Hotels can receive hundreds of reviews every day and it’s easy to lose track of them. Thinking of that, I created a project using Natural Language Processing that was able to analyze which features have the highest impact on guests when they write a review, get insights about the hotel in a few seconds, and classify reviews with 82% accuracy.
+Hotels can receive hundreds of reviews every day and it’s easy to lose track of them. Thinking of that, I created a project using Natural Language Processing that was able to analyze which features have the highest impact on guests when they write a review, get insights about the hotel in a few seconds, and classify reviews with 82% accuracy. 
 
 **[Predicting Fetal Risk Using Cardiotocographic Data](https://github.com/ismael-araujo/Predicting-Fetal-Risk-Using-Cardiotocographic-Data- "Predicting Fetal Risk Using Cardiotocographic Data")**
 
